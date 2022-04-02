@@ -2,7 +2,7 @@
 
 ```js
 // Declarar uma variável chamada `myvar`, sem valor.
-~~~javascript
+~~~ javascript
 var myvar;
 ~~~
 
